@@ -4,11 +4,16 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Banjoko Abdulazeez",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "bootstrap": "^4.5.0",
+    "express": "^4.17.1",
+    "jquery": "^1.9.1",
+    "morgan": "^1.10.0",
+    "popper.js": "^1.16.1"
   }
 }
